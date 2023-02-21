@@ -1,4 +1,4 @@
-<h1 align="center">JCalculadora</h1>
+<h1 align="center">Calculadora</h1>
 <br>
 
 <h2>Índices</h2>
