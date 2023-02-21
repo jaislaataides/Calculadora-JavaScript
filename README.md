@@ -1,4 +1,4 @@
-<h1 align="center">Jogo da cobrinha</h1>
+<h1 align="center">JCalculadora</h1>
 <br>
 
 <h2>Índices</h2>
